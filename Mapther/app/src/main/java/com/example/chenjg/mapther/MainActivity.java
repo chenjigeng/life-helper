@@ -1,4 +1,4 @@
-package com.zhtian.mapther;
+package com.example.chenjg.mapther;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
